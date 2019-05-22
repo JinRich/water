@@ -267,14 +267,14 @@ overflow: hidden;
 }
 .both{
     height: .24rem;
-    position: absolute;
+    position: fixed;
     bottom: 2rem;
     z-index: 30;
 }
 .both>p{
     height: .24rem;
     font-size: .23rem;
-    line-height: .12rem;
+    line-height: .24rem;
     float: left;
     color: #3bacfe;
     display: block;
