@@ -115,7 +115,6 @@ ul.goods>li>.imgbox{
     width: 1.53rem;
     height: 1.61rem;
     margin: .15rem 1rem .44rem .72rem;
-    background: #4cd964;
     display: block;
 }
 ul.goods>li>.goods-title{
@@ -180,7 +179,7 @@ ul.goods>li>.goods-condition>p.sole:before{
     box-shadow: 0 .02rem .05rem 0 rgba(68, 181, 255, 0.43);
 }
 ul.goods>li>.goods-condition>p.num{
-    padding-right: .6rem;
+    padding-right: .3rem;
 }
 ul.goods>li>.goods-comment{
     width: 100%;

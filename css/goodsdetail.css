@@ -321,6 +321,9 @@ ul.ensure>li:before{
     display: block;
     margin-bottom: .1rem;
 }
+.detailimg video{
+    width: 100%;
+}
 .border{
     margin: 0 .25rem;
     width: 7rem;
