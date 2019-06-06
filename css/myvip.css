@@ -168,11 +168,11 @@
 .power >.black{
     color: #4f5b64;
 }
-ul{
+ul.po{
     margin-left: .11rem;
     overflow: hidden;
 }
-li{
+ul.po li{
     margin-top: .51rem;
     width: 1.97rem;
     float: left;
